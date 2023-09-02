@@ -7,9 +7,6 @@
 ____
 
 Amo tecnologia, por conta disso, resolvi me desafiar e correr atrás de um sonho antigo que é trabalhar com o que eu realmente gosto de fazer, porém pelas adversidades da vida, acabaram me levando para outro caminho, mas agora estou 100% focado em fazer desse sonho uma realidade, por isso me encontro em transição de carreira.
-
-Estou terminando o meu curso de Desenvolvedor FullStack pela escola [Labenu](https://www.labenu.com.br/) e recentemente fui aprovado no bootcamp da [Cubos Academy](https://cubos.academy/) no curso de Desenvolvimento de sistemas - Backend e aprimorando os conhecimentos pela [DIO](https://www.dio.me/), focado dia a dia no meu crescimento profissional.
-
 ___
 ### 😁 Conecte-se comigo!
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://www.dio.me/users/pain-nici2011)
