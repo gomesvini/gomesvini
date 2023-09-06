@@ -6,7 +6,7 @@
 
 ____
 
-Amo tecnologia, por conta disso, resolvi me desafiar e correr atrás de um sonho antigo que é trabalhar com o que eu realmente gosto de fazer, porém pelas adversidades da vida, acabaram me levando para outro caminho, mas agora estou 100% focado em fazer desse sonho uma realidade, por isso me encontro em transição de carreira.
+Tenho 27 anos e Amo tecnologia, por conta disso, resolvi me desafiar e correr atrás de um sonho antigo que é trabalhar com o que eu realmente gosto de fazer, porém pelas adversidades da vida, acabaram me levando para outro caminho, mas agora estou 100% focado em fazer desse sonho uma realidade, por isso me encontro em transição de carreira.
 
 Estou terminando o meu curso de Desenvolvedor FullStack pela escola [Labenu](https://www.labenu.com.br/) e recentemente fui aprovado no bootcamp da [Cubos Academy](https://cubos.academy/) no curso de Desenvolvimento de sistemas - Backend e aprimorando os conhecimentos pela [DIO](https://www.dio.me/), focado dia a dia no meu crescimento profissional.
 ___
