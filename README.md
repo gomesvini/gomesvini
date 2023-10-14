@@ -26,7 +26,7 @@ ___
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
-[![PostgreSQL(https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)]
+[![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)]
 ___
 
 ### 📈 Git Stats
