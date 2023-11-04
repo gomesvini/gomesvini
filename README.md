@@ -1,8 +1,6 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
-
-# SEJAM BEM-VINDOS E FIQUEM À VONTADE!
-## Olá, meu nome é Vinícius Gomes (Vinni)
+# Olá, meu nome é Vinícius Gomes (Vinni)
 
 ____
 
