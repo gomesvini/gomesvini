@@ -1,13 +1,11 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
-# Olá, meu nome é Vinícius Gomes (Vinni)
+# Olá pessoal!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:vinicius_gnascimento2013@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vini-gomes/)
 ____
 
-Tenho 27 anos e Amo tecnologia, por conta disso, resolvi me desafiar e correr atrás de um sonho antigo que é trabalhar com o que eu realmente gosto de fazer, porém pelas adversidades da vida, acabaram me levando para outro caminho, mas agora estou 100% focado em fazer desse sonho uma realidade, por isso me encontro em transição de carreira.
-
-Finalizei o meu curso de Desenvolvedor FullStack pela escola [Labenu](https://www.labenu.com.br/) e recentemente fui aprovado no bootcamp da [Cubos Academy](https://cubos.academy/) no curso de Desenvolvimento de sistemas - Backend e aprimorando os conhecimentos pela [DIO](https://www.dio.me/), focado dia a dia no meu crescimento profissional.
+Meu nome é Vinícius (Vinni), tenho 27 anos e estou cursando Ciências da Computação. Estou em transição de carreira e atualmente estou apenas estudando. Finalizei o curso de Desenvolvedor FullStack pela escola [Labenu](https://www.labenu.com.br/) e recentemente fui aprovado no bootcamp intensivo da [Cubos Academy](https://cubos.academy/) no curso de Desenvolvimento de sistemas - Backend que está previsto para encerrar em novembro/2023 e estou também aprimorando os conhecimentos pela [DIO](https://www.dio.me/), focado dia a dia no meu crescimento profissional.
 ___
 
 ### 📈 Git Stats
