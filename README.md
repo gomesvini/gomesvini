@@ -1,7 +1,6 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
 # Olá, meu nome é Vinícius Gomes (Vinni)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://www.dio.me/users/pain-nici2011)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:vinicius_gnascimento2013@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vini-gomes/)
 ____
