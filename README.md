@@ -10,6 +10,13 @@ Tenho 27 anos e Amo tecnologia, por conta disso, resolvi me desafiar e correr at
 
 Finalizei o meu curso de Desenvolvedor FullStack pela escola [Labenu](https://www.labenu.com.br/) e recentemente fui aprovado no bootcamp da [Cubos Academy](https://cubos.academy/) no curso de Desenvolvimento de sistemas - Backend e aprimorando os conhecimentos pela [DIO](https://www.dio.me/), focado dia a dia no meu crescimento profissional.
 ___
+
+### 📈 Git Stats
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=gomesvini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gomesvini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+
+___
 ### 😁 Conecte-se comigo!
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://www.dio.me/users/pain-nici2011)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:vinicius_gnascimento2013@hotmail.com)
@@ -29,8 +36,5 @@ ___
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
 ___
 
-### 📈 Git Stats
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=gomesvini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gomesvini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-___
+
