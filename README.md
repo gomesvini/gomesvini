@@ -1,7 +1,9 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
 # Olá, meu nome é Vinícius Gomes (Vinni)
-
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://www.dio.me/users/pain-nici2011)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:vinicius_gnascimento2013@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vini-gomes/)
 ____
 
 Tenho 27 anos e Amo tecnologia, por conta disso, resolvi me desafiar e correr atrás de um sonho antigo que é trabalhar com o que eu realmente gosto de fazer, porém pelas adversidades da vida, acabaram me levando para outro caminho, mas agora estou 100% focado em fazer desse sonho uma realidade, por isso me encontro em transição de carreira.
@@ -26,11 +28,3 @@ ___
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
 ___
-### 😁 Conecte-se comigo!
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://www.dio.me/users/pain-nici2011)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:vinicius_gnascimento2013@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vini-gomes/)
-___
-
-
-
