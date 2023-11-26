@@ -8,7 +8,7 @@
 ___
 ### 😁 Se conecte e entre em contato comigo!
 <p align="left">
-  <a href="[https://www.linkedin.com/in/felipe-alves-6a67b6256](https://www.linkedin.com/in/vini-gomes/)" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/vini-gomes/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
   <a href="https://wa.me/5511966397027" title="WhatsApp">
