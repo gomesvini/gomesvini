@@ -1,7 +1,7 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
-# 🖖  Olá pessoal, Meu nome é Vinícius (Vinni)!
-## Um apaixonado por programação e tecnologia!
+# 🖖 Olá pessoal, Meu nome é Vinícius (Vinni)!
+## Focado em melhorar a cada dia e me tornar um Desenvolvedor melhor!
 
 - 💻 Desenvolvendo habilidades para transição de carreira.
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
