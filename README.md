@@ -6,8 +6,8 @@
 - 💻 Desenvolvendo habilidades para transição de carreira.
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
 ___
-### 😁 Se conecte e entre em contato comigo!
-<p align="left">
+<h3 align="center">😁 Se conecte e entre em contato comigo!</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/vini-gomes/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
@@ -22,7 +22,10 @@ ___
 
 <h3 align="center">📈 Git Status</h3>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gomesvini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gomesvini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+<div display="flex" align="center" justify-content="space-around">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gomesvini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>        
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gomesvini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>  
+</div>
 
 ___
 <h3 align="center">💻 Habilidades</h3>
