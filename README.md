@@ -1,6 +1,6 @@
 <img align="right" src="https://spread.com.br/wp-content/uploads/2020/06/anima-desenvolvimento-agil.gif" width="300"/> 
 
-# 🖖 Olá pessoal, Meu nome é Vinícius (Vinni)!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&pause=1000&color=FFFFFF&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=1000&height=80&lines=Olá,+eu+sou+o+Vinícius!!;Sou+desenvolvedor+de+Software!!)](https://git.io/typing-svg)
 ## Focado em melhorar a cada dia e me tornar um Desenvolvedor melhor!
 
 - 💻 Desenvolvendo habilidades para transição de carreira.
