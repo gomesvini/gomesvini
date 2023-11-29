@@ -8,14 +8,9 @@
 ___
 <h3 align="center">😁 Se conecte e entre em contato comigo!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vini-gomes/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
-
-  <a href="https://wa.me/5511966397027" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
-
-  <a href="mailto:vinicius_gnascimento2013@hotmail.com" title="Email">
-  <img height=22px width=90px src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F" alt="Email"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5511966397027" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"     target="_blank"></a>
+  <a href = "mailto:vinicius_gnascimento2013@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vini-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ___
