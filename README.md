@@ -20,6 +20,25 @@ ___
 
 ___
 
+<h3 align="center">💻 Habilidades</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,postgresql,sqlite,nodejs,express,postman" />
+  </a>
+</p>
+
+___
+
+<h3 align="center">📈 Aprendendo</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,tailwind,idea,kotlin,vue" />
+  </a>
+</p>
+
+___
 <h3 align="center">📈 Git Status</h3>
 
 <div display="flex" align="center" justify-content="space-around">
@@ -41,29 +60,8 @@ ___
   </a>
 </p>
 
-
-
-
-___
-<h3 align="center">💻 Habilidades</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,postgresql,sqlite,nodejs,express,postman" />
-  </a>
-</p>
-
 ___
 
-<h3 align="center">📈 Aprendendo</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,bootstrap,tailwind,idea,kotlin,vue" />
-  </a>
-</p>
-
-___
 
 <div align="center">
   <h3><b>Visitas ao Perfil</b></h3>
