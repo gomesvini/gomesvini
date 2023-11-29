@@ -3,7 +3,7 @@
 # ✌🏾 Olá, me chamo Vinícius!
 ## Sou Desenvolvedor de software!
 
-- 💻 Desenvolvendo habilidades para transição de carreira.
+- 💻 Apaixonado pela área tech e criar soluções para as pessoas.
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
 - 🎮 Hobbies favoritos: Ouvir músicas e jogar games online!
 ___
