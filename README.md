@@ -5,6 +5,7 @@
 
 - 💻 Desenvolvendo habilidades para transição de carreira.
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
+- 🎮 Hobbies favoritos: Ouvir músicas e jogar games online!
 ___
 <h3 align="center">😁 Se conecte e entre em contato comigo!</h3>
 <p align="center">
