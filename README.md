@@ -26,7 +26,7 @@ ___
 
 ___
 
-<h3 align="center">📈 Aprendendo</h3>
+<h3 align="center">📚 Aprendendo</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
