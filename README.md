@@ -3,8 +3,8 @@
 # ✌🏾 Olá, me chamo Vinícius!
 ## Sou Desenvolvedor de software!
 
-- 💼 Trabalho atualmente como Analista de Suporte Júnior na empresa <a href="https://www.linx.com.br/">Linx</a>
 - 💻 Apaixonado pela área tech e criar soluções para as pessoas.
+- 💼 Trabalho atualmente como Analista de Suporte Júnior na empresa <a href="https://www.linx.com.br/">Linx</a>
 - 🎓 Formado em **FullStack** pela <a href="https://www.labenu.com.br/">Labenu</a> e em **Back-End** pela <a href="https://cubos.academy/">Cubos Academy</a>.
 - 🎮 Hobbies favoritos: Ouvir músicas e jogar games online!
 ___
